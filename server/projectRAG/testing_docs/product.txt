@@ -1,0 +1,26 @@
+Nasi Goreng Spesial is made with stir-fried rice, scrambled eggs, chicken, shrimp, and vegetables. It has a savory and slightly smoky flavor with mild spiciness. The price is around Rp15000 and it contains 680 kcal.
+Bakso Urat is made with beef meatballs containing tendon, served in a savory broth with noodles and fried shallots. It has a chewy texture and rich, umami flavor. The price is around Rp12000 and it contains 420 kcal.
+Sate Ayam is made from grilled chicken skewers marinated in sweet soy sauce and served with peanut sauce. It’s sweet, savory, and slightly smoky. The price is around Rp18000 and it contains 520 kcal.
+Ayam Penyet is made with fried smashed chicken, sambal, fresh cucumber, and steamed rice. It’s crispy, spicy (adjustable), and savory. The price is around Rp17000 and it contains 650 kcal.
+Tempe Mendoan is made from thinly sliced fermented soybeans coated in spiced batter and fried. It’s soft, savory, and aromatic with a mild crunch. The price is around Rp7000 and it contains 200 kcal.
+Tahu Gejrot is made from fried tofu soaked in a spicy-sour garlic and tamarind sauce. It’s tangy, spicy, and slightly sweet. The price is around Rp6000 and it contains 180 kcal.
+Gado-Gado is made with boiled vegetables, tofu, tempeh, and boiled egg, served with peanut sauce and crackers. It’s nutty, savory, and mildly spicy. The price is around Rp13000 and it contains 450 kcal.
+Rujak Buah is made with assorted fresh fruits such as pineapple, mango, and cucumber, served with spicy palm sugar dressing. It’s sweet, tangy, and spicy. The price is around Rp9000 and it contains 220 kcal.
+Es Cendol is made with pandan rice flour jelly, coconut milk, and palm sugar syrup. It’s creamy, sweet, and cold with chewy jelly. The price is around Rp7000 and it contains 260 kcal.
+Es Campur is made with mixed fruits, grass jelly, coconut, condensed milk, and syrup. It’s sweet, refreshing, and colorful with a variety of textures. The price is around Rp10000 and it contains 300 kcal.
+Teh Tarik is made with black tea and condensed milk, pulled to create a frothy top. It’s creamy, sweet, and aromatic. The price is around Rp6000 and it contains 190 kcal.
+Kopi Tubruk is made with coarse-ground coffee brewed directly in hot water. It’s strong, slightly bitter, and aromatic, often served with sugar. The price is around Rp5000 and it contains 80 kcal.
+Mie Ayam Bakso is made with egg noodles, seasoned chicken, meatballs, and broth. It has a savory, slightly sweet flavor with a rich umami broth. The price is around Rp12000 and it contains 550 kcal.
+Soto Ayam is made with shredded chicken, vermicelli, turmeric-based broth, and boiled egg. It’s aromatic, light, and slightly spicy. The price is around Rp13000 and it contains 480 kcal.
+Lontong Sayur is made with rice cakes, chayote stew, tofu, and boiled egg in coconut milk curry. It’s creamy, mildly spicy, and savory. The price is around Rp11000 and it contains 510 kcal.
+Nasi Uduk is made with coconut milk rice, fried tempeh, boiled egg, fried chicken, and sambal. It’s fragrant, rich, and mildly spicy. The price is around Rp13000 and it contains 630 kcal.
+Martabak Manis is made with thick pancake dough filled with chocolate, cheese, or peanuts. It’s sweet, rich, and fluffy. The price is around Rp16000 and it contains 620 kcal.
+Martabak Telur is made with thin crispy dough filled with minced meat, egg, and leek. It’s savory, oily, and crispy on the outside. The price is around Rp18000 and it contains 640 kcal.
+Pisang Goreng is made with ripe bananas dipped in batter and deep-fried. It’s sweet, crispy, and soft inside. The price is around Rp6000 and it contains 230 kcal.
+Cireng is made from tapioca flour and garlic, deep-fried until crispy outside and chewy inside. It’s savory and best served with spicy sauce. The price is around Rp7000 and it contains 220 kcal.
+Seblak is made with wet crackers, noodles, meatballs, and spicy broth. It’s chewy, spicy (level 1–5), and full of bold flavor. The price is around Rp10000 and it contains 540 kcal.
+Kerak Telor is made with sticky rice, egg, and shredded coconut, cooked with traditional herbs. It’s savory, smoky, and slightly crunchy. The price is around Rp15000 and it contains 510 kcal.
+Es Teler is made with young coconut, jackfruit, avocado, and condensed milk with shaved ice. It’s tropical, creamy, and sweet. The price is around Rp10000 and it contains 290 kcal.
+Es Doger is made with fermented sticky rice, coconut milk, syrup, and shredded ice. It’s sweet, tangy, and creamy. The price is around Rp9000 and it contains 270 kcal.
+Teh Manis Dingin is made with brewed black tea and sugar, served with ice. It’s refreshing, sweet, and perfect for a hot day. The price is around Rp3000 and it contains 90 kcal.
+Jeruk Peras is made with freshly squeezed orange juice and sugar, served cold. It’s citrusy, sweet-tart, and refreshing. The price is around Rp5000 and it contains 120 kcal.
