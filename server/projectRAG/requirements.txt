@@ -4,4 +4,3 @@ chromadb
 openai
 openai-whisper
 langchain_community
-duckdb

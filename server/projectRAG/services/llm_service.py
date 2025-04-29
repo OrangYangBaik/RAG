@@ -15,8 +15,14 @@ def call_llm(prompt):
     response = client.chat.completions.create(
         model=LOCAL_LLM_API["model_LLM"],
         messages=[
-            {"role": "system", "content": "You are a specialist in recommendation service. Give the user recommendations based on the context. Give the answer in english"},
-            {"role": "user", "content": prompt}
+                {
+                    "role": "system", 
+                    "content": "You are a specialist in recommendation service. Give the user recommendations based on the context. Give the answer in english"
+                },
+                {
+                    "role": "user", 
+                    "content": prompt
+                }
         ]
     )
 
